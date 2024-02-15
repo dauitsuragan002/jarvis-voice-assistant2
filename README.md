@@ -1,4 +1,4 @@
-# jarvis-gpt-multilanguage
+# jarvis-gpt
 ![CHESEE!](https://i.imgur.com/ADVvEnZ.jpg)
 
 #Jarvis Assistant with gpt and Elevenlabs TTS, Google TTS
