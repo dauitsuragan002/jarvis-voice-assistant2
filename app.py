@@ -28,7 +28,7 @@ async def handle_bot_response(user_input, active_assistant):
                 {"role": "user", "content": user_input},
             ],
         )
-        bot_response = response["choices"][0]["message"]["content"]
+        bot_response = response.choices[0].message.content
         print("Bot's response:", bot_response)
         # tts_elevenlabs(bot_response)
         await tts_goog(bot_response, "response.mp3", active_assistant)
