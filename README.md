@@ -9,6 +9,10 @@
 
 # Read README.MD and unpack zip files. Jarvis Sound Pack_ru_ru.zip
 
-Unpack zip files. Jarvis Sound Pack.zip. Install JARVIS SOUND PACK - https://drive.google.com/file/d/1O1WIhxFzP1EOUR7vKNdiSWP6s3M4p3uO/view?usp=sharing
+#Unpack zip files. Jarvis Sound Pack.zip. Install JARVIS SOUND PACK - https://drive.google.com/file/d/1O1WIhxFzP1EOUR7vKNdiSWP6s3M4p3uO/view?usp=sharing
 
-Thanks: https://www.youtube.com/watch?v=aokn48vB0kc&t=18s
+#Finally read  app.py
+#Finally RUN python app.py in cmd
+
+
+#Thanks: https://www.youtube.com/watch?v=aokn48vB0kc&t=18s
