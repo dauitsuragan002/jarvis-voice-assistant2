@@ -1,0 +1,12 @@
+# Usage: pip install -r requirements.txt
+#python 3.10.6
+
+ffmpeg-python
+ffmpeg
+pydub
+SpeechRecognition
+elevenlabs
+gTTS
+openai
+webbrowser
+psutil
